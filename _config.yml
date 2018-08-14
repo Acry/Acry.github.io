@@ -1,3 +1,8 @@
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-seo-tag
+title:
+  SDL2 C Examples, Tutorials, Demos and more
+description:
+  Comprehensive Collection of SDL2, OpenGL C-Code.
+  Procedural Sound and graphics plus GLSL Shaders.
