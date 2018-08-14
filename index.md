@@ -132,6 +132,7 @@ and introduction in random distribution or weighted distribution.
 
 SDL Mixer:  
 [change Frequency during runtime](https://gist.github.com/danilolc/9fff54a8cb9ddc04b9bd82df7badb610)  
+
 ### C++
 (http://gigi.nullneuron.net/gigilabs/writing/sdl2-tutorials/)
 
@@ -140,13 +141,14 @@ SDL Mixer:
 
 ### GameDev
 [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)  
-
 [Game Engines Collection](https://github.com/collections/game-engines)  
 
 ### CG
+[Paul Bourke's on geometry](http://paulbourke.net/geometry/)
 [Philip Rideout's blog](http://github.prideout.net/)  
 [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/)  
 [Íñigo Quílez](http://www.iquilezles.org/prods/index.htm)  
+[Jon Macey's NGL Demos](https://nccastaff.bmth.ac.uk/jmacey/GraphicsLib/Demos/index.html)
 
 ### Audio
 [DrPetter's homepage](http://www.drpetter.se/article_sound.html)
