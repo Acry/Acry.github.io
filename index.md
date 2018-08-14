@@ -4,8 +4,7 @@ Not covering Setup here, if you struggle to get things up and running, refer to 
 [Lazy Foo](http://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php).  
 
 #### Mac OS
-[Setting Up An SDL2 Project In Xcode 9](http://matthewstyles.com/set-up-an-sdl2-project-in-xcode/) or
-[Set up SDL2 on your Mac without Xcode](https://medium.com/@edkins.sarah/set-up-sdl2-on-your-mac-without-xcode-6b0c33b723f7).  
+[Setting Up An SDL2 Project In Xcode 9](http://matthewstyles.com/set-up-an-sdl2-project-in-xcode/) or [without Xcode](https://medium.com/@edkins.sarah/set-up-sdl2-on-your-mac-without-xcode-6b0c33b723f7).  
 #### Using SDL2 with CMake
 [Trenki's Dev Blog](https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/)  
 
