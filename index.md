@@ -129,12 +129,12 @@ and introduction in random distribution or weighted distribution.
 
 ## Other external ressources
 ### C
-http://www.stephenmeier.net/2014/08/10/sdl-2-0-tutorial-00-the-basic-sturcture/
+<http://www.stephenmeier.net/2014/08/10/sdl-2-0-tutorial-00-the-basic-sturcture/>
 
 SDL Mixer:  
 [change Frequency during runtime](https://gist.github.com/danilolc/9fff54a8cb9ddc04b9bd82df7badb610)  
 ### C++
-http://gigi.nullneuron.net/gigilabs/writing/sdl2-tutorials/
+<http://gigi.nullneuron.net/gigilabs/writing/sdl2-tutorials/>
 
 ### Emscripten
 [Emscripten and SDL 2 Tutorial](https://lyceum-allotments.github.io/2016/06/emscripten-and-sdl-2-tutorial-part-1/)  
