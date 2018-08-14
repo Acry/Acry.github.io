@@ -9,7 +9,7 @@ Not covering Setup here, if you struggle to get things up and running, refer to 
 #### Using SDL2 with CMake
 [Trenki's Dev Blog](https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/)  
 
-Everything else and more will be covered here, tho this is pure C and mainly Linux orientated, which doesn't mean I don't cross-compile for Windows or Android. If you need a german translation I could make that happen.
+Everything else and more will be covered here, tho this is pure C and mainly Linux orientated, what doesn't mean I don't cross-compile for Windows or Android. If you need a german translation I could make that happen.
 
 As soon as the size here is getting out of hand, I will jump to a wiki page and merge repos. If you want to host a website with tutorials [contact me](https://discourse.libsdl.org/u/Acry/).  
 ### C-Code:
