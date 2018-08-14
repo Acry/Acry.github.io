@@ -1,18 +1,22 @@
-## SDL2 C Examples, Tutorials, Demos and more
 Not covering Setup here, if you struggle to get things up and running, refer to one of those pages:
 [Will Usher](https://www.willusher.io/sdl2%20tutorials/2013/08/15/lesson-0-setting-up-sdl) or
 [Lazy Foo](http://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php).  
 
 #### Mac OS
-[Setting Up An SDL2 Project In Xcode 9](http://matthewstyles.com/set-up-an-sdl2-project-in-xcode/) or [without Xcode](https://medium.com/@edkins.sarah/set-up-sdl2-on-your-mac-without-xcode-6b0c33b723f7).  
+Setting Up An SDL2 Project [in Xcode 9](http://matthewstyles.com/set-up-an-sdl2-project-in-xcode/) or [without Xcode](https://medium.com/@edkins.sarah/set-up-sdl2-on-your-mac-without-xcode-6b0c33b723f7).  
 #### Using SDL2 with CMake
 [Trenki's Dev Blog](https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/)  
 
 Everything else and more will be covered here, tho this is pure C and mainly Linux orientated, what doesn't mean I don't cross-compile for Windows or Android. If you need a german translation I could make that happen.
 
-As soon as the size here is getting out of hand, I will jump to a wiki page and merge repos. If you want to host a website with tutorials [contact me](https://discourse.libsdl.org/u/Acry/).  
+Feel free to send Demo Requests!  
+
+[contact me](https://discourse.libsdl.org/u/Acry/).  
+
 ### C-Code:
 [Shade it! - Shadertoy viewer/editor](https://github.com/Acry/Shade-it-) 
+WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement 
+visualization of GLSL shaders with low latency.  
 
 #### Entry Level
 [SDL2-TTF](https://github.com/Acry/SDL2-TTF)    
@@ -92,6 +96,7 @@ High Level Game State Management
 Re-Render a part of the screen using SetRenderTarget and SDL_TEXTUREACCESS_TARGET.
 
 [Pong](https://github.com/Acry/SDL2-Pong)  
+My scaleable Pong implementation.  
 
 #### Advanced in C
 [SDL2-OpenGL](https://github.com/Acry/SDL2-OpenGL)  
@@ -126,7 +131,7 @@ with GNU-Makefile
 This guide is intended to get the Idea of random drops
 and introduction in random distribution or weighted distribution.
 
-## Other external ressources
+## External ressources
 ### C
 <http://www.stephenmeier.net/2014/08/10/sdl-2-0-tutorial-00-the-basic-sturcture/>
 
