@@ -14,9 +14,12 @@ Feel free to send Demo Requests!
 [contact me](https://discourse.libsdl.org/u/Acry/).  
 
 ### C-Code:
-[Shade it! - Shadertoy viewer/editor](https://github.com/Acry/Shade-it-) 
+[Shade it!](https://github.com/Acry/Shade-it-)  
+Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders.
+With working drag and drop and live editing.  
 WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement 
 visualization of GLSL shaders with low latency.  
+![Mandelbrot Shader](assets/ss/ldf3DN.jpg)  
 
 #### Entry Level
 [SDL2-TTF](https://github.com/Acry/SDL2-TTF)    
