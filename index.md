@@ -15,7 +15,7 @@ Feel free to [contact me](https://discourse.libsdl.org/u/Acry/summary) for criti
 Oh, you can use the code as you wish, but don't blame me!  
 *Happy hacking!*  
 
-### C-Code:
+## C-Code:
 [Shade it!](https://github.com/Acry/Shade-it-)  
 Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders.
 Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile.  
@@ -23,7 +23,7 @@ WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement
 visualization of GLSL shaders with low latency.  
 ![Mandelbrot Shader](assets/ss/ldf3DN.jpg)  
 
-#### Entry Level
+### Entry Level
 [SDL2-Surfaces](https://github.com/Acry/SDL2-Surfaces)  
 This is a set of 10 small introductory programs.  
 It's about the window, the window icon, cursor, surfaces,  
@@ -59,7 +59,7 @@ use of SDL-Mixer for Music
 [SDL2-Mixer-play_mp3](https://github.com/Acry/SDL2-Mixer-play_mp3)  
 use of SDL-Mixer for Sound
 
-#### Basic-Level:
+### Basic-Level:
 [SDL2_simple_music_player](https://github.com/Acry/SDL2_simple_music_player)  
 use of SDL-Mixer and GUI-Elements
 
@@ -87,9 +87,6 @@ It is a follow up from Mousegrab. Shows how to make a Slider.
 [SDL2-Curves](https://github.com/Acry/SDL2-Curves)  
 How to apply De Casteljau's algorithm on a quadratic Bézier curve.  
 
-[simple-state-pattern](https://github.com/Acry/simple-state-pattern)  
-High Level Game State Management
-
 [SDL2-create_tex_part_of_win](https://github.com/Acry/SDL2-create_tex_part_of_win)  
 Re-Render a part of the screen using SetRenderTarget and SDL_TEXTUREACCESS_TARGET.
 
@@ -99,7 +96,7 @@ This is a small SDL2 demo to shows how to use [TextureColorMod](https://wiki.lib
 [Pong](https://github.com/Acry/SDL2-Pong)  
 My scaleable Pong implementation.  
 
-#### Advanced in C
+### Advanced in C
 You need to fully understand pointers, dynamic memory allocation and bit operations.  
 [SDL2-Text](https://github.com/Acry/SDL2-Text)  
 This is a small SDL2 text API demo  
@@ -117,7 +114,11 @@ Demo with a couple of features.
 Flipping Bits on a real char and visualize that.
 
 ### C&C++ mixed Code:
-[classic Pong and Breakout stuff](https://github.com/Acry/SDL2-pong_issue-01)  
+[Classic Pong and Breakout stuff](https://github.com/Acry/SDL2-pong_issue-01)  
+Ressources covering Atari's classic game.  
+
+[C++ game engine skeleton](https://github.com/Acry/cpp-game-engine-skel)  
+with GNU-Makefile  
 
 ### Misc
 [My C Code](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875)  
@@ -129,12 +130,12 @@ SDL2 Template for KDevelop
 [Heavy Template](https://github.com/Acry/SDL2-C-KDev_App_Template)  
 SDL2 Template for KDevelop - with TTF & Mixer  
 
-[cpp game engine skeleton](https://github.com/Acry/cpp-game-engine-skel)  
-with GNU-Makefile  
+[Simple-state-pattern](https://github.com/Acry/simple-state-pattern)  
+High Level Game State Management - Code Flow diagram.
 
 [Game Loots](https://github.com/Acry/Game_loots)  
 This guide is intended to get the Idea of random drops
-and introduction in random distribution or weighted distribution.
+and as introduction to random distribution or weighted distribution.
 
 ## External ressources
 ### C
