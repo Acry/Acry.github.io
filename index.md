@@ -24,12 +24,11 @@ WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement
 visualization of GLSL shaders with low latency.  
 
 ### Entry Level
-<video src="assets/vids/surfaces.mp4" width="320" height="200" controls preload></video>
 [SDL2-Surfaces](https://github.com/Acry/SDL2-Surfaces)  
-This is a set of 10 small introductory programs.  
-It's about the window, the window icon, cursor, surfaces,  
-and Pixel Manipulation.
-And finally it shows why SDL_Renderer Infrastructure is so useful.  
+<video src="assets/vids/surfaces.mp4" width="320" height="200" controls preload></video>
+This is a set of small introductory programs.  
+It's about the window, the window icon, a custom cursor, surfaces,  
+and Pixel Manipulation and how to save a screenshot.
 
 [SDL2-Renderer](https://github.com/Acry/SDL2-Renderer)  
 This is a series about the SDL2-Renderer.  
