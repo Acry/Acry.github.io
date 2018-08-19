@@ -17,13 +17,14 @@ Oh, you can use the code as you wish, but don't blame me!
 
 ## C-Code:
 [Shade it!](https://github.com/Acry/Shade-it-)  
+![Mandelbrot Shader](assets/ss/ldf3DN.jpg)  
 Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders.
 Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile.  
 WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement 
 visualization of GLSL shaders with low latency.  
-![Mandelbrot Shader](assets/ss/ldf3DN.jpg)  
 
 ### Entry Level
+<video src="assets/vids/surfaces.mp4" width="320" height="200" controls preload></video>
 [SDL2-Surfaces](https://github.com/Acry/SDL2-Surfaces)  
 This is a set of 10 small introductory programs.  
 It's about the window, the window icon, cursor, surfaces,  
