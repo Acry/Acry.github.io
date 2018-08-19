@@ -28,7 +28,7 @@ visualization of GLSL shaders with low latency.
 <video src="assets/vids/surfaces.mp4" width="320" height="200" controls preload></video>
 This is a set of small introductory programs.  
 It's about the window, the window icon, a custom cursor, surfaces,  
-and Pixel Manipulation and how to save a screenshot.
+Pixel Manipulation and how to save a screenshot.
 
 [SDL2-Renderer](https://github.com/Acry/SDL2-Renderer)  
 This is a series about the SDL2-Renderer.  
