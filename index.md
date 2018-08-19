@@ -25,7 +25,7 @@ visualization of GLSL shaders with low latency.
 
 ### Entry Level
 [SDL2-Surfaces](https://github.com/Acry/SDL2-Surfaces)  
-<video src="assets/vids/surfaces.mp4" width="320" height="200" controls preload></video>
+<video src="assets/vids/surfaces.mp4" poster="assets/ss/surfaces.jpg" "width="320" height="200" controls preload></video>
 This is a set of small introductory programs.  
 It's about the window, the window icon, a custom cursor, surfaces,  
 Pixel Manipulation and how to save a screenshot.
