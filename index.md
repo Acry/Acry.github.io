@@ -17,7 +17,7 @@ Oh, you can use the code as you wish, but don't blame me!
 
 ## C-Code:
 [Shade it!](https://github.com/Acry/Shade-it-)  
-![Mandelbrot Shader](assets/ss/ldf3DN.jpg){:height="320px" width="200px"}  
+![Mandelbrot Shader](assets/ss/ldf3DN.jpg){:height="200px" width="320px"}  
 Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders.
 Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile.  
 WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement 
