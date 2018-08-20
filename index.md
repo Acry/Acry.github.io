@@ -51,6 +51,7 @@ Create Spritesheet from gif and render that timed.
 responsive Button
 
 [SDL2-Mousegrab](https://github.com/Acry/SDL2-Mousegrab)  
+<video src="assets/vids/mouse_grab.mp4" poster="assets/ss/mouse_grab.jpg" width="320" height="200" controls preload></video>
 Let rect follow the mouse  
 
 [SDL2-DnD](https://github.com/Acry/SDL2-DnD)  
