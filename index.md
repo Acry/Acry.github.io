@@ -94,7 +94,7 @@ Re-Render a part of the screen using SetRenderTarget and SDL_TEXTUREACCESS_TARGE
 
 [SDL2-TextureColorMod](https://github.com/Acry/SDL2-TextureColorMod)
 <video src="assets/vids/colormod.mp4" poster="assets/ss/colormod.jpg" width="320" height="200" controls preload></video>
-This is a small SDL2 demo to shows how to use [TextureColorMod](https://wiki.libsdl.org/SDL_GetTextureColorMod?action=fullsearch&context=180&value=TextureColorMod&titlesearch=Titles).  
+This smalldemo shows how to use [TextureColorMod](https://wiki.libsdl.org/SDL_GetTextureColorMod?action=fullsearch&context=180&value=TextureColorMod&titlesearch=Titles).  
 
 [Pong](https://github.com/Acry/SDL2-Pong)  
 My scaleable Pong implementation.  
