@@ -44,6 +44,7 @@ Records the duration how long left MouseButton is pressed.
 SDL2-Timing: Program quits after a certain amount of time.
 
 [SDL2-SpriteAnim](https://github.com/Acry/SDL2-Anim01)  
+<video src="assets/vids/sprite_animation.mp4" poster="assets/ss/sprite_animation.jpg" width="320" height="200" controls preload></video>
 Create Spritesheet from gif and render that timed.  
 
 [SDL2-GUI-Button](https://github.com/Acry/SDL2-GUI-Button)  
