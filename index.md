@@ -142,7 +142,7 @@ and as introduction to random distribution or weighted distribution.
 
 ## External ressources
 ### C
-<http://www.stephenmeier.net/2014/08/10/sdl-2-0-tutorial-00-the-basic-sturcture/>
+[Stephen Meier's SDL2 Tutorials](https://www.google.de/search?q=site%3Awww.stephenmeier.net+%22SDL-2-0-Tutorial-%22&oq=site%3Awww.stephenmeier.net+%22SDL-2-0-Tutorial-%22)
 
 SDL Mixer:  
 [change Frequency during runtime](https://gist.github.com/danilolc/9fff54a8cb9ddc04b9bd82df7badb610)  
