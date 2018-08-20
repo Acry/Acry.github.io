@@ -97,7 +97,8 @@ Re-Render a part of the screen using SetRenderTarget and SDL_TEXTUREACCESS_TARGE
 This small demo shows how to use [TextureColorMod](https://wiki.libsdl.org/SDL_GetTextureColorMod?action=fullsearch&context=180&value=TextureColorMod&titlesearch=Titles).  
 
 [Pong](https://github.com/Acry/SDL2-Pong)  
-My scaleable Pong implementation.  
+<video src="assets/vids/pong.mp4" poster="assets/ss/pong.jpg" width="320" height="200" controls preload></video>
+My scaleable Pong implementation. You can take over control anytime during game, the AI will take over if you go afk. [A mingw(] www.mingw.org/) Windows 64 build is in the Makefile.  
 
 ### Advanced in C
 You need to fully understand pointers, dynamic memory allocation and bit operations.  
