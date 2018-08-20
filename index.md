@@ -16,7 +16,7 @@ Oh, you can use the code as you wish, but don't blame me!
 *Happy hacking!*  
 
 ## C-Code:
-[Shade it!](https://github.com/Acry/Shade-it-)  
+[Shade it!](https://github.com/Acry/Shade-it-)
 ![Mandelbrot Shader](assets/ss/ldf3DN.jpg)  
 Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders.
 Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile.  
@@ -24,7 +24,7 @@ WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement
 visualization of GLSL shaders with low latency.  
 
 ### Entry Level
-[SDL2-Surfaces](https://github.com/Acry/SDL2-Surfaces)  
+[SDL2-Surfaces](https://github.com/Acry/SDL2-Surfaces)
 <video src="assets/vids/surfaces.mp4" poster="assets/ss/surfaces.jpg" width="320" height="200" controls preload></video>
 This is a set of small introductory programs.  
 It's about the window, the window icon, a custom cursor, surfaces,  
@@ -32,6 +32,8 @@ Pixel Manipulation and how to save a screenshot.
 
 [SDL2-Renderer](https://github.com/Acry/SDL2-Renderer)  
 This is a series about the SDL2-Renderer.  
+Create a Texture from Surface and Render it or flip, mirror rotate it.  
+Take Screenshot with RenderReadPixels.  
 Render and animate a colorful gradient like a new shadertoy one.  
 Shows a bit how glsl works and why we want shaders.  
 
@@ -90,7 +92,8 @@ How to apply De Casteljau's algorithm on a quadratic Bézier curve.
 [SDL2-create_tex_part_of_win](https://github.com/Acry/SDL2-create_tex_part_of_win)  
 Re-Render a part of the screen using SetRenderTarget and SDL_TEXTUREACCESS_TARGET.
 
-[SDL2-TextureColorMod](https://github.com/Acry/SDL2-TextureColorMod)  
+[SDL2-TextureColorMod](https://github.com/Acry/SDL2-TextureColorMod)
+<video src="assets/vids/colormod.mp4" poster="assets/ss/colormod.jpg" width="320" height="200" controls preload></video>
 This is a small SDL2 demo to shows how to use [TextureColorMod](https://wiki.libsdl.org/SDL_GetTextureColorMod?action=fullsearch&context=180&value=TextureColorMod&titlesearch=Titles).  
 
 [Pong](https://github.com/Acry/SDL2-Pong)  
