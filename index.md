@@ -16,7 +16,7 @@ Oh, you can use the code as you wish, but don't blame me!
 *Happy hacking!*  
 
 ## C-Code:
-[Shade it!](https://github.com/Acry/Shade-it-)
+[Shade it!](https://github.com/Acry/Shade-it-)  
 ![Mandelbrot Shader](assets/ss/ldf3DN.jpg)  
 Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders.
 Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile.  
