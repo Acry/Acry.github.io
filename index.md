@@ -116,6 +116,7 @@ Startup Code to use SDL2/OpenGL/NanoVG
 [SDL2-Demo-01](https://github.com/Acry/SDL2-Demo-01)  
 Demo with a couple of features.
 
+<video src="assets/vids/byte_drawer.mp4" poster="assets/ss/byte_drawer.jpg" width="716" height="654" controls preload></video>
 [Byte_Drawer](https://github.com/Acry/Byte_Drawer)  
 Flipping Bits on a real char and visualize that.
 
