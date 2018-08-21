@@ -103,7 +103,7 @@ This small demo shows how to use [TextureColorMod](https://wiki.libsdl.org/SDL_G
 My scaleable Pong implementation. You can take over two player control anytime, the AI will take over if you go afk. A [mingw](http://www.mingw.org) Windows 64 build is in the Makefile.  
 
 ### Advanced in C
-You need to fully understand pointers, dynamic memory allocation and bit operations.  
+You need to fully understand pointers, [dynamic memory allocation](https://github.com/Acry/STD-C) and bit operations.  
 [SDL2-Text](https://github.com/Acry/SDL2-Text)  
 This is a small SDL2 text API demo  
 
