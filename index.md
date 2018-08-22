@@ -106,6 +106,7 @@ My scaleable Pong implementation. You can take over two player control anytime, 
 *You need to fully understand pointers, [dynamic memory allocation](https://github.com/Acry/STD-C) and bit operations.*  
 
 [SDL2-Text](https://github.com/Acry/SDL2-Text)  
+<video src="assets/vids/text.mp4" poster="assets/ss/text.jpg" width="425" height="217" controls preload></video>
 This is a small SDL2 text API demo  
 
 [SDL2-OpenGL](https://github.com/Acry/SDL2-OpenGL)  
