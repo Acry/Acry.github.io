@@ -19,7 +19,7 @@ Oh, you can use the code as you wish, but don't blame me!
 [Shade it!](https://github.com/Acry/Shade-it-)  
 ![Mandelbrot Shader](assets/ss/ldf3DN.jpg){:height="200px" width="320px"}  
 Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders.
-Features "[drag and drop](####[SDL2-DnD])", Auto-Screenshot with shadername, editing with Auto-Compile.  
+Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile.  
 WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement 
 visualization of GLSL shaders with low latency.  
 
@@ -54,7 +54,7 @@ responsive Button
 <video src="assets/vids/mouse_grab.mp4" poster="assets/ss/mouse_grab.jpg" width="320" height="200" controls preload></video>
 Let rect follow the mouse  
 
-#### [SDL2-DnD](https://github.com/Acry/SDL2-DnD)  
+[SDL2-DnD](https://github.com/Acry/SDL2-DnD)  
 Drag and Drop. Receiving Text and Files via SDL_DropEvent.  
 
 [Play music with SDL2](https://github.com/Acry/SDL2-Mixer-play_music_mp3)  
