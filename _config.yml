@@ -4,5 +4,5 @@ plugins:
 title:
   SDL2 C Tutorials, Examples, Demos and more
 description:
-  Comprehensive Collection of SDL2 and OpenGL C-Code.
-  Procedural Sounds and Graphics, plus GLSL Shaders for Game-Programming and general purpose.
+  Comprehensive Collection of SDL2 C Tutorials, SDL2 with OpenGL/Vulkan and other APIs. Procedural Sounds and Graphics, plus GLSL Shaders for Game-Programming and general purpose. All done in pure C.
+
