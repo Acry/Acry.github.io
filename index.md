@@ -115,7 +115,8 @@ This is a starter series about GLSL Shaders using SDL2 as OpenGL Helper and a bi
 Startup Code to use SDL2/OpenGL/NanoVG  
 
 [SDL2-Demo-01](https://github.com/Acry/SDL2-Demo-01)  
-Demo with a couple of features.
+<video src="assets/vids/Demo_01.mp4" poster="assets/ss/Demo_01.jpg" width="325" height="220" controls preload></video>
+Demo using SDL2 Image, SDL2 TTF, SDL2 Mixer.  
 
 [Byte_Drawer](https://github.com/Acry/Byte_Drawer)  
 <video src="assets/vids/byte_drawer.mp4" poster="assets/ss/byte_drawer.jpg" width="358" height="327" controls preload></video>
