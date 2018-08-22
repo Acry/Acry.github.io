@@ -3,7 +3,7 @@ This is my effort to make coding with pure C and SDL2 more clear und fun.
 Why C? Cause C is seeing! =).  
 You should have a working C-Environment and [SDL2 Devlopment Libs](https://www.libsdl.org/download-2.0.php) installed; preferable some of the extensions to SDL, like [Mixer](https://www.libsdl.org/projects/SDL_mixer/), [Image](https://www.libsdl.org/projects/SDL_image/) and [TTF](https://www.libsdl.org/projects/SDL_ttf/).
 
-If you struggle to get things up and running, refer to one of those pages:
+If you struggle with getting things up and running, refer to one of those pages:
 [Will Usher](https://www.willusher.io/sdl2%20tutorials/2013/08/15/lesson-0-setting-up-sdl) or
 [Lazy Foo](http://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php).  
 **For Mac OS**: Setting Up An SDL2 Project [in Xcode 9](http://matthewstyles.com/set-up-an-sdl2-project-in-xcode/) or [without Xcode](https://medium.com/@edkins.sarah/set-up-sdl2-on-your-mac-without-xcode-6b0c33b723f7).  
