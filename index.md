@@ -134,10 +134,10 @@ with GNU-Makefile
 C-Idioms, C-Examples, C-Tutorials, C-Snippets  
 
 [Light Template](https://github.com/Acry/SDL2-C-KDev_App_Template_light)  
-SDL2 Template for KDevelop  
+SDL2 Template for [KDevelop](https://www.kdevelop.org/)  
 
 [Heavy Template](https://github.com/Acry/SDL2-C-KDev_App_Template)  
-SDL2 Template for KDevelop - with TTF & Mixer  
+SDL2 Template for [KDevelop](https://www.kdevelop.org/) - with TTF & Mixer  
 
 [Simple-state-pattern](https://github.com/Acry/simple-state-pattern)  
 High Level Game State Management - Code Flow diagram.
