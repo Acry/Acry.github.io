@@ -85,7 +85,8 @@ This is a series about physics - SI-Units, Velocity, Acceleration, Gravity, Fric
 [SDL2-Game-AI](https://github.com/Acry/AI)  
 This is an introductory series about Artificial intelligence (AI)￼.  
 
-[SDL2-Slider](https://github.com/Acry/SDL2-Slider)  
+[SDL2-Slider](https://github.com/Acry/SDL2-Slider)
+<video src="assets/vids/slider.mp4" poster="assets/ss/slider.jpg" width="320" height="200" controls preload></video>
 It is a follow up from Mousegrab. Shows how to make a Slider.  
 
 [SDL2-Curves](https://github.com/Acry/SDL2-Curves)
