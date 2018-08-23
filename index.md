@@ -32,7 +32,7 @@ Pixel Manipulation and how to save a screenshot.
 
 [SDL2-Renderer](https://github.com/Acry/SDL2-Renderer)  
 This is a series about the SDL2-Renderer.  
-Create a Texture from Surface and Render it or flip, mirror rotate it.  
+Create a texture from surface, render it flipped, mirrored and rotated.  
 Take Screenshot with RenderReadPixels.  
 Render and animate a colorful gradient like a new shadertoy one.  
 Shows a bit how glsl works and why we want shaders.  
@@ -41,43 +41,43 @@ Shows a bit how glsl works and why we want shaders.
 Records the duration how long left MouseButton is pressed.
 
 [SDL2-Timer-02](https://github.com/Acry/SDL2-Timer-02)  
-SDL2-Timing: Program quits after a certain amount of time.
+Program quits after a certain amount of time.
 
 [SDL2-SpriteAnim](https://github.com/Acry/SDL2-Anim01)  
 <video src="assets/vids/sprite_animation.mp4" poster="assets/ss/sprite_animation.jpg" width="320" height="200" controls preload></video>
-Create Spritesheet from gif and render that timed.  
+Create Spritesheet from gif and render it timed.  
 
 [SDL2-GUI-Button](https://github.com/Acry/SDL2-GUI-Button)  
-responsive Button
+Responsive Button.  
 
 [SDL2-Mousegrab](https://github.com/Acry/SDL2-Mousegrab)  
 <video src="assets/vids/mouse_grab.mp4" poster="assets/ss/mouse_grab.jpg" width="320" height="200" controls preload></video>
-Let rect follow the mouse  
+Let rect follow the mouse.  
 
 [SDL2-DnD](https://github.com/Acry/SDL2-DnD)  
 Drag and Drop. Receiving Text and Files via SDL_DropEvent.  
 
 [Play music with SDL2](https://github.com/Acry/SDL2-Mixer-play_music_mp3)  
-use of SDL-Mixer for Music
+Use of SDL-Mixer for Music.  
 
 [SDL2-Mixer-play_mp3](https://github.com/Acry/SDL2-Mixer-play_mp3)  
-use of SDL-Mixer for Sound
+Use of SDL-Mixer for Sound.  
 
 ### Basic-Level:
 [SDL2_simple_music_player](https://github.com/Acry/SDL2_simple_music_player)  
-use of SDL-Mixer and GUI-Elements
+Use of SDL-Mixer and GUI-Elements.  
 
 [SDL2-Parallax-02](https://github.com/Acry/SDL2-Parallax-02)  
-rapid Parallax implementation with 6 Layers
+Rapid Parallax implementation with 6 Layers.  
 
 [SDL2-Titlebar](https://github.com/Acry/SDL2-Titlebar)  
-roll your own titlebar  
+Roll your own titlebar.  
 
 [SDL2-TTF](https://github.com/Acry/SDL2-TTF)    
-This is a C-SDL2 series about the SDL-Extension SDL_ttf 2.0  
+This is a series about the SDL-Extension SDL_ttf 2.0  
 
 [SDL2-Textures](https://github.com/Acry/SDL2-Textures)  
-Procedural/algorithmic Textures with SDL2.  
+Procedural/algorithmic Textures.  
 
 [SDL2-Game-Physics](https://github.com/Acry/SDL2-Physics)  
 This is a series about physics - SI-Units, Velocity, Acceleration, Gravity, Friction etc.  
@@ -88,7 +88,8 @@ This is an introductory series about Artificial intelligence (AI)￼.
 [SDL2-Slider](https://github.com/Acry/SDL2-Slider)  
 It is a follow up from Mousegrab. Shows how to make a Slider.  
 
-[SDL2-Curves](https://github.com/Acry/SDL2-Curves)  
+[SDL2-Curves](https://github.com/Acry/SDL2-Curves)
+<video src="assets/vids/casteljau.mp4" poster="assets/ss/casteljau.jpg" width="320" height="200" controls preload></video>
 How to apply De Casteljau's algorithm on a quadratic Bézier curve.  
 
 [SDL2-create_tex_part_of_win](https://github.com/Acry/SDL2-create_tex_part_of_win)  
