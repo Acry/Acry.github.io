@@ -73,7 +73,8 @@ Rapid Parallax implementation with 6 Layers.
 [SDL2-Titlebar](https://github.com/Acry/SDL2-Titlebar)  
 Roll your own titlebar.  
 
-[SDL2-TTF](https://github.com/Acry/SDL2-TTF)    
+[SDL2-TTF](https://github.com/Acry/SDL2-TTF)
+<video src="assets/vids/ttf.mp4" poster="assets/ss/ttf.jpg" width="468" height="197" controls preload></video>
 This is a series about the SDL-Extension SDL_ttf 2.0  
 
 [SDL2-Textures](https://github.com/Acry/SDL2-Textures)  
