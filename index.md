@@ -67,7 +67,8 @@ Use of SDL-Mixer for Sound.
 [SDL2_simple_music_player](https://github.com/Acry/SDL2_simple_music_player)  
 Use of SDL-Mixer and GUI-Elements.  
 
-[SDL2-Parallax-02](https://github.com/Acry/SDL2-Parallax-02)  
+[SDL2-Parallax-02](https://github.com/Acry/SDL2-Parallax-02)
+<video src="assets/vids/parallax.mp4" poster="assets/ss/parallax.jpg" width="400" height="225" controls preload></video>
 Rapid Parallax implementation with 6 Layers.  
 
 [SDL2-Titlebar](https://github.com/Acry/SDL2-Titlebar)  
