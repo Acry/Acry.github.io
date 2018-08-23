@@ -1,7 +1,7 @@
 Welcome!  
 This is my effort to make coding with pure C and SDL2 more clear und fun.  
 Why C? Cause C is seeing! =).  
-You should have a working C-Environment and [SDL2 Devlopment Libs](https://www.libsdl.org/download-2.0.php) installed; preferable some of the extensions to SDL, like [Mixer](https://www.libsdl.org/projects/SDL_mixer/), [Image](https://www.libsdl.org/projects/SDL_image/) and [TTF](https://www.libsdl.org/projects/SDL_ttf/).
+You should have a working C-Environment and [SDL2 Development Libs](https://www.libsdl.org/download-2.0.php) installed; preferable some of the extensions to SDL, like [Mixer](https://www.libsdl.org/projects/SDL_mixer/), [Image](https://www.libsdl.org/projects/SDL_image/) and [TTF](https://www.libsdl.org/projects/SDL_ttf/).
 
 If you struggle with getting things up and running, refer to one of those pages:
 [Will Usher](https://www.willusher.io/sdl2%20tutorials/2013/08/15/lesson-0-setting-up-sdl) or
