@@ -17,7 +17,7 @@ Oh, you can use the code as you wish, but don't blame me!
 
 ## C-Code:
 [Shade it!](https://github.com/Acry/Shade-it-)  
-![Mandelbrot Shader](assets/ss/ldf3DN.jpg){:height="200px" width="320px"}  
+<video src="assets/vids/Shade_it!.mp4" poster="assets/ss/ldf3DN.jpg" width="398" height="232" controls preload></video>
 Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders.
 Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile.  
 WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement 
@@ -167,6 +167,7 @@ SDL Mixer:
 ### GameDev
 [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)  
 [Game Engines Collection](https://github.com/collections/game-engines)  
+[Newcastele University](https://research.ncl.ac.uk/game/mastersdegree/)  
 
 ### CG
 [Paul Bourke's on geometry](http://paulbourke.net/geometry/)
