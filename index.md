@@ -113,6 +113,12 @@ My scaleable Pong implementation. You can take over two player control anytime, 
 <video src="assets/vids/text.mp4" poster="assets/ss/text.jpg" width="425" height="217" controls preload></video>
 This is a small SDL2 text API demo  
 
+[SDL2-Gif](https://github.com/Acry/SDL2-GifViewer)  
+<video src="assets/vids/gif_viewer.mp4" poster="assets/ss/gif_viewer.jpg" width="278" height="247" controls preload></video>
+Plays an animated gif - pauseable and scaleable.  
+uses: [SDL_gifwrap](https://github.com/grimfang4/SDL_gifwrap)  
+by Jonathan Dearborn   
+
 [SDL2-OpenGL](https://github.com/Acry/SDL2-OpenGL)  
 This is a starter series about GLSL Shaders using SDL2 as OpenGL Helper and a bit Shader-Language for C-Coders.  
 
