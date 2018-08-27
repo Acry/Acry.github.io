@@ -167,7 +167,7 @@ SDL Mixer:
 ### GameDev
 [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)  
 [Game Engines Collection](https://github.com/collections/game-engines)  
-[Newcastele University](https://research.ncl.ac.uk/game/mastersdegree/)  
+[Newcastle University](https://research.ncl.ac.uk/game/mastersdegree/)  
 
 ### CG
 [Paul Bourke's on geometry](http://paulbourke.net/geometry/)
