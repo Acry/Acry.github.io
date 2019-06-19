@@ -1,4 +1,5 @@
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+theme: jekyll-theme-prologue
 plugins:
   - jekyll-seo-tag
 title:

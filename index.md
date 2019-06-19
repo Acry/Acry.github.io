@@ -1,6 +1,20 @@
 Welcome!  
-This is my effort to make coding with pure C and SDL2 more clear and fun.  
-Why C? Cause C is seeing! =).  
+
+This is a Collection of programming-work I have done in the past.
+
+C-Page Python-Page
+
+Noteable Software:
+A Flappy Bird Clone (Prototype)
+GLSL-Shader Viewer and Editor
+A Documentation System
+
+Comprehensive Collection of SDL2 C Tutorials and Demos, SDL2 with OpenGL/~~Vulkan~~ and other APIs. Procedural Sounds and Graphics, plus GLSL Shaders for Game-Programming and general purpose. All done in pure C.
+
+This is my effort to make coding with pure C and SDL2 more clear and fun.
+
+Why C? Cause C is seeing! =).
+
 You should have a working C-Environment and [SDL2 Development Libs](https://www.libsdl.org/download-2.0.php) installed; preferable some of the extensions to SDL, like [Mixer](https://www.libsdl.org/projects/SDL_mixer/), [Image](https://www.libsdl.org/projects/SDL_image/) and [TTF](https://www.libsdl.org/projects/SDL_ttf/).
 
 If you struggle with getting things up and running, refer to one of those pages:  
@@ -20,8 +34,8 @@ Oh, you can use the code as you wish, but don't blame me!
 <video src="assets/vids/Shade_it!.mp4" poster="assets/ss/ldf3DN.jpg" width="398" height="232" controls preload></video>
 Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders.
 Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile.  
-WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement 
-visualization of GLSL shaders with low latency.  
+~~WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement 
+visualization of GLSL shaders with low latency.~~  
 
 ### Entry Level
 [SDL2-Surfaces](https://github.com/Acry/SDL2-Surfaces)
