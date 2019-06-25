@@ -129,7 +129,7 @@ How to apply De Casteljau's algorithm on a quadratic Bézier curve.
 
 #### More Textures
 [SDL2-create_tex_part_of_win Repo](https://github.com/Acry/SDL2-create_tex_part_of_win)<br>
-Re-Render a part of the screen using SetRenderTarget and SDL_TEXTUREACCESS_TARGET.
+Re-Render a part of the screen using `SetRenderTarget` and `SDL_TEXTUREACCESS_TARGET`.
 
 [SDL2-TextureColorMod Repo](https://github.com/Acry/SDL2-TextureColorMod)<br>
 <video src="assets/vids/colormod.mp4" poster="assets/ss/colormod.jpg" width="320" height="200" controls preload></video>

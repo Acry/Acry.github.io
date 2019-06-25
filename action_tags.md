@@ -13,7 +13,11 @@ Bring power back to the Desktop Environment.
 
 
 ### Demo Video
-<video src="assets/vids/at_promote.mp4" poster="assets/ss/at_promote.jpg" width="640" height="360" controls></video>
+<video controls poster="assets/ss/at_promote.jpg" width="640" height="360">
+    <source src="assets/vids/at_promote.webm" type="video/webm">
+    <source src="assets/vids/at_promote.mp4" type="video/mp4">
+    I'm sorry; your browser doesn't support HTML5 video in WebM with VP8/VP9 or MP4 with H.264.
+</video>
 
 ### Features
 
