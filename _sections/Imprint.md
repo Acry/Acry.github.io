@@ -1,7 +1,7 @@
 ---
 title: Legal Notice
 icon: fa-info-circle
-order: 6
+order: 7
 ---
 
 This page is private and for educational purposes only.
