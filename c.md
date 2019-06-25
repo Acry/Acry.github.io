@@ -47,96 +47,96 @@ And if you wish to use **SDL2 with CMake**: [Trenki's Dev Blog](https://trenki2.
 
 
 ### Entry Level
-[SDL2-Surfaces](https://github.com/Acry/SDL2-Surfaces)
+[SDL2-Surfaces Repo](https://github.com/Acry/SDL2-Surfaces)<br>
 <video src="assets/vids/surfaces.mp4" poster="assets/ss/surfaces.jpg" width="320" height="200" controls preload></video>
 This is a set of small introductory programs.
 It's about the window, the window icon, a custom cursor, surfaces,
 Pixel Manipulation and how to save a screenshot.
 
 #### SDL-Renderer
-An Introduction to the Rendering Subsystem.
-[SDL2-Renderer](https://github.com/Acry/SDL2-Renderer)
-Create a texture from surface, render it flipped, mirrored and rotated.
-Take Screenshot with RenderReadPixels.
-Render and animate a colorful gradient like a new shadertoy one.
-Shows a bit how glsl works and why we want shaders.
+An Introduction to the Rendering Subsystem.<br>
+[SDL2-Renderer Repo](https://github.com/Acry/SDL2-Renderer)<br>
+* Create a texture from surface, render it flipped, mirrored and rotated.
+* Take Screenshot with RenderReadPixels.
+* Render and animate a colorful gradient like a new shadertoy one.
+* Shows a bit how glsl works and why we want shaders.
 
 #### SDL-Timers
 
-[SDL2-Timer-01](https://github.com/Acry/SDL2-Timer-01)
+[SDL2-Timer-01 Repo](https://github.com/Acry/SDL2-Timer-01)<br>
 Records the duration how long left MouseButton is pressed.
 
-[SDL2-Timer-02](https://github.com/Acry/SDL2-Timer-02)
+[SDL2-Timer-02 Repo](https://github.com/Acry/SDL2-Timer-02)<br>
 Program quits after a certain amount of time.
 
 #### Put it together
-[SDL2-SpriteAnim](https://github.com/Acry/SDL2-Anim01)
+[SDL2-SpriteAnim Repo](https://github.com/Acry/SDL2-Anim01)<br>
 <video src="assets/vids/sprite_animation.mp4" poster="assets/ss/sprite_animation.jpg" width="320" height="200" controls preload></video>
 Create Spritesheet from gif and render it timed.
 
-[SDL2-GUI-Button](https://github.com/Acry/SDL2-GUI-Button)
+[SDL2-GUI-Button Repo](https://github.com/Acry/SDL2-GUI-Button)<br>
 Responsive Button.
 
-[SDL2-Mousegrab](https://github.com/Acry/SDL2-Mousegrab)
+[SDL2-Mousegrab Repo](https://github.com/Acry/SDL2-Mousegrab)<br>
 <video src="assets/vids/mouse_grab.mp4" poster="assets/ss/mouse_grab.jpg" width="320" height="200" controls preload></video>
 Let rect follow the mouse.
 
-[SDL2-Slider](https://github.com/Acry/SDL2-Slider)
+[SDL2-Slider Repo](https://github.com/Acry/SDL2-Slider)<br>
 <video src="assets/vids/slider.mp4" poster="assets/ss/slider.jpg" width="320" height="200" controls preload></video>
 It is a follow up from Mousegrab. Shows how to make a Slider.
 
 #### Drag and Drop
-[SDL2-DnD](https://github.com/Acry/SDL2-DnD)
+[SDL2-DnD Repo](https://github.com/Acry/SDL2-DnD)<br>
 Drag and Drop. Receiving Text and Files via SDL_DropEvent.
 
 #### Audio
-[Play music with SDL2](https://github.com/Acry/SDL2-Mixer-play_music_mp3)
+[Play music with SDL2 Repo](https://github.com/Acry/SDL2-Mixer-play_music_mp3)<br>
 Use of SDL-Mixer for Music.
 
-[SDL2-Mixer-play_mp3](https://github.com/Acry/SDL2-Mixer-play_mp3)
+[SDL2-Mixer-play_mp3 Repo](https://github.com/Acry/SDL2-Mixer-play_mp3)<br>
 Use of SDL-Mixer for Sound.
 
 ### Put it together
-[SDL2_simple_music_player](https://github.com/Acry/SDL2_simple_music_player)
+[SDL2_simple_music_player Repo](https://github.com/Acry/SDL2_simple_music_player)<br>
 Use of SDL-Mixer and GUI-Elements.
 
-[SDL2-Parallax-02](https://github.com/Acry/SDL2-Parallax-02)
+[SDL2-Parallax-02 Repo](https://github.com/Acry/SDL2-Parallax-02)<br>
 <video src="assets/vids/parallax.mp4" poster="assets/ss/parallax.jpg" width="400" height="225" controls preload></video>
 Rapid Parallax implementation with 6 Layers.
 
-[SDL2-Titlebar](https://github.com/Acry/SDL2-Titlebar)
+[SDL2-Titlebar Repo](https://github.com/Acry/SDL2-Titlebar)<br>
 Roll your own titlebar.
 
 #### Fonts
-[SDL2-TTF](https://github.com/Acry/SDL2-TTF)
+[SDL2-TTF Repo](https://github.com/Acry/SDL2-TTF)<br>
 <video src="assets/vids/ttf.mp4" poster="assets/ss/ttf.jpg" width="468" height="197" controls preload></video>
 This is a series about the SDL-Extension SDL_ttf 2.0
 
 #### Procedural/algorithmic Textures
-[SDL2-Textures](https://github.com/Acry/SDL2-Textures)
+[SDL2-Textures Repo](https://github.com/Acry/SDL2-Textures)<br>
 
 #### (Game-)Physics
-[SDL2-Game-Physics](https://github.com/Acry/SDL2-Physics)
+[SDL2-Game-Physics Repo](https://github.com/Acry/SDL2-Physics)<br>
 This is a series about physics - SI-Units, Velocity, Acceleration, Gravity, Friction etc.
 
 #### Artificial intelligence (AI)
-[SDL2-Game-AI](https://github.com/Acry/AI)
+[SDL2-Game-AI Repo](https://github.com/Acry/AI)
 
 #### Curves
-[SDL2-Curves](https://github.com/Acry/SDL2-Curves)
+[SDL2-Curves Repo](https://github.com/Acry/SDL2-Curves)<br>
 <video src="assets/vids/casteljau.mp4" poster="assets/ss/casteljau.jpg" width="320" height="200" controls preload></video>
 How to apply De Casteljau's algorithm on a quadratic Bézier curve.
 
 #### More Textures
-[SDL2-create_tex_part_of_win](https://github.com/Acry/SDL2-create_tex_part_of_win)
+[SDL2-create_tex_part_of_win Repo](https://github.com/Acry/SDL2-create_tex_part_of_win)<br>
 Re-Render a part of the screen using SetRenderTarget and SDL_TEXTUREACCESS_TARGET.
 
-[SDL2-TextureColorMod](https://github.com/Acry/SDL2-TextureColorMod)
+[SDL2-TextureColorMod Repo](https://github.com/Acry/SDL2-TextureColorMod)<br>
 <video src="assets/vids/colormod.mp4" poster="assets/ss/colormod.jpg" width="320" height="200" controls preload></video>
 This small demo shows how to use [TextureColorMod](https://wiki.libsdl.org/SDL_GetTextureColorMod?action=fullsearch&context=180&value=TextureColorMod&titlesearch=Titles).
 
 #### A simple Game
-[Pong](https://github.com/Acry/SDL2-Pong)
+[Pong Repo](https://github.com/Acry/SDL2-Pong)<br>
 <video src="assets/vids/pong.mp4" poster="assets/ss/pong.jpg" width="320" height="200" controls preload></video>
 My scaleable Pong implementation. You can take over two player control anytime, the AI will take over if you go afk. A [mingw](http://www.mingw.org) Windows 64 build is in the Makefile.
 
@@ -149,20 +149,20 @@ My scaleable Pong implementation. You can take over two player control anytime, 
 This is a small SDL2 text API demo
 
 #### A GIF-Viewer
-[SDL2-Gif](https://github.com/Acry/SDL2-GifViewer)
+[SDL2-Gif Repo](https://github.com/Acry/SDL2-GifViewer)
 <video src="assets/vids/gif_viewer.mp4" poster="assets/ss/gif_viewer.jpg" width="278" height="247" controls preload></video>
 Plays an animated gif - pauseable and scaleable.
-uses: [SDL_gifwrap](https://github.com/grimfang4/SDL_gifwrap)
+uses: [SDL_gifwrap Repo](https://github.com/grimfang4/SDL_gifwrap)
 by Jonathan Dearborn
 
 #### SDL and OpenGL
-[SDL2-OpenGL](https://github.com/Acry/SDL2-OpenGL)
+[SDL2-OpenGL Repo](https://github.com/Acry/SDL2-OpenGL)
 This is a starter series about GLSL Shaders using SDL2 as OpenGL Helper and a bit Shader-Language for C-Coders.
 
-[NanoVG-SDL2 starter](https://github.com/Acry/SDL2-nanovg-example)
+[NanoVG-SDL2 starter Repo](https://github.com/Acry/SDL2-nanovg-example)
 Startup Code to use SDL2/OpenGL/NanoVG
 
-[Shade it!](https://github.com/Acry/Shade-it-)
+[Shade it! Repo](https://github.com/Acry/Shade-it-)
 <video src="assets/vids/Shade_it.mp4" poster="assets/ss/ldf3DN.jpg" width="398" height="232" controls preload></video>
 Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders.
 Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile.
@@ -170,11 +170,11 @@ Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Com
 visualization of GLSL shaders with low latency.~~
 
 #### Misc Demos
-[SDL2-Demo-01](https://github.com/Acry/SDL2-Demo-01)
+[SDL2-Demo-01 Repo](https://github.com/Acry/SDL2-Demo-01)
 <video src="assets/vids/Demo_01.mp4" poster="assets/ss/Demo_01.jpg" width="325" height="220" controls preload></video>
 Demo using SDL2 Image, SDL2 TTF, SDL2 Mixer.
 
-[Byte_Drawer](https://github.com/Acry/Byte_Drawer)
+[Byte_Drawer Repo](https://github.com/Acry/Byte_Drawer)
 <video src="assets/vids/byte_drawer.mp4" poster="assets/ss/byte_drawer.jpg" width="358" height="327" controls preload></video>
 Flipping Bits on a real char and visualize that.
 
