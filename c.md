@@ -20,7 +20,7 @@ Cause C is seeing!  =)
 
 ### Foreword
 
-Feel free to [contact me](/jekyll-theme-prologue/#contact) for criticism, Demo Requests or whatever!
+Feel free to [contact me](/#contact) for criticism, Demo Requests or whatever!
 Oh, you can use the code as you wish, but don't blame me!
 *Happy hacking!*
 

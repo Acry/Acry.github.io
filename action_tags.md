@@ -56,4 +56,4 @@ Bring power back to the Desktop Environment.
 Editor
 
 ### Notes
-The source code is currently not available without a charge. If you want to buy the Code or want to hire me to integrate it for your company, [contact me](/jekyll-theme-prologue/#contact).
+The source code is currently not available without a charge. If you want to buy the Code or want to hire me to integrate it for your company, [contact me](/#contact).

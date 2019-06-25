@@ -14,16 +14,7 @@
 # Also, be sure to customize url and baseurl for your site.
 #
 # ---------------------------------------------------------------
-#
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -39,9 +30,8 @@ title:
 subtitle:
   Talk is cheap... show me the Code!
 
-
 description:
-  SDL2, Python3 GTK3 Tutorials. My Portfolio.
+  SDL2, Python3, C, GTK3 Tutorials. My Portfolio.
 
 author: Carsten Holtkamp
 email: Carsten-Holtkamp@T-Online.de
