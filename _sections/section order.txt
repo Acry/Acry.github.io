@@ -1,6 +1,0 @@
-1   Intro
-2   Portfolio
-3   More Content
-4   About me
-5   Contact
-6   Imprint
