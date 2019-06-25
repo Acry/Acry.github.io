@@ -16,4 +16,4 @@ order: 4
 Multiple random backgrounds, scalable, pauseable, dying animation, random background objects.
 
 ### Notes
-The source code is currently not available without a charge. If you want to have exclusive rights with your background as a promotional game, [contact me](/jekyll-theme-prologue/#contact).
+The source code is currently not available without a charge. If you want to have exclusive rights with your background as a promotional game, [contact me](/#contact).
