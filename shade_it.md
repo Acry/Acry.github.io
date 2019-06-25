@@ -26,3 +26,6 @@ Shade it! is a GLSL-Viewer/Editor.
 
 ### Notes
 Currently not under development.
+
+### Repository
+https://github.com/Acry/Shade-it-
