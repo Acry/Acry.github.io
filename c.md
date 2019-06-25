@@ -33,7 +33,7 @@ I am trying to cover the [SDL2-API](https://wiki.libsdl.org/APIByCategory) as ne
 
 I spent quite some time on that topic and decided that it's not worth going further.
 The Hardware isn't there yet. The focus of the past few decades was to improve GPU's.
-Common audio chips are simpler than ever, if one compares the complexity of a GPU and an audio chip it is clear that the audio chip doesn't reveals a lot functionality.
+Common audio chips are simpler than ever, if one compares the complexity of a GPU and an audio chip it is clear that the audio chip doesn't reveal a lot functionality.
 
 
 ### Requirements
