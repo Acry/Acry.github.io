@@ -6,6 +6,9 @@ icon: fa-list
 order: 4
 ---
 
+### My own Infos
+[My C-Snippets](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875)
+
 ### Data Structures and Programming Techniques
 [CPSC 223, Spring 2018, James Aspnes](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
 
