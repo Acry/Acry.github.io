@@ -15,4 +15,4 @@ order: 7
 Original Assets, Scalable, Pausable, 2 Backgrounds, 3 Bird Colors, Bitmap Fonts, Tiny and Fast Executable, Detailed Step by Step Dev-Guide.
 
 ### Notes
-This is quickly implemented proof of concept Code. It should run on Android / Windows & Linux - should be easily portable to Mac/iOS. See more Details and Downloads in the Repository.
+This is quickly implemented proof of concept Code done in 2017. It should run on Android / Windows & Linux - should be easily portable to Mac/iOS. See more Details and Downloads in the Repository.
