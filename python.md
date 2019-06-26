@@ -1,6 +1,6 @@
 ---
 title: Python Code
-subtitle: Things I have done with Python 2 and 3
+subtitle: Things I have done with Python
 layout: "page"
 icon: fa-code
 order: 3
@@ -9,6 +9,8 @@ order: 3
 <header>
   <h2 class="alt"><strong>Hang on while I upload more Data!</strong></h2>
 </header>
+
+[Action Tags](action_tags.html) is done in Python 3 and GTK.
 
 ### PyGObject Demos
 
