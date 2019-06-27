@@ -16,9 +16,7 @@ order: 7
 Original Assets - Scalable - Pausable, 2 Backgrounds - 3 Bird Colors - Bitmap Fonts - Tiny and Fast Executable - Detailed Step by Step Dev-Guide (Upload in Progress).
 
 ### Notes
-This is quickly implemented proof of concept Code done in 2017. It should run on Android / Windows & Linux - should be easily portable to Mac/iOS. See more Details and Downloads in the Repository.
-
-**Repo Push In Progress**
+This is quickly implemented proof of concept Code done in 2017. It should run on Android / Windows & Linux - should be easily portable to Mac/iOS. See more Details and Downloads in the Repository. **Repo Push In Progress**
 
 ### Downloads
 * Android: [Dropbox](https://www.dropbox.com/s/mpin68zb252a84z/SDLActivity-debug-1.apk?dl=0)
