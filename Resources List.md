@@ -22,7 +22,7 @@ order: 4
 
 ### CG
 [Paul Bourke's on geometry](http://paulbourke.net/geometry/)<br>
-[Philip Rideout's blog](http://github.prideout.net/)<br>
+[Philip Rideout's blog](https://prideout.net/)<br>
 [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor/)<br>
 [Íñigo Quílez](http://www.iquilezles.org/prods/index.htm)<br>
 [Jon Macey's NGL Demos](https://nccastaff.bmth.ac.uk/jmacey/GraphicsLib/Demos/index.html)<br>
