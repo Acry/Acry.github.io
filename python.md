@@ -22,7 +22,7 @@ Checkout the [Demo Suite](https://github.com/Acry/PyGObject-GTK).
 
 ### PyGTK Demos
 
-[Python 2's End of life has been announced](https://pythonclock.org/), so it may not be a good idea to get started. Since I worked for somebody else on existing Python 2 Code, I had to dig into PyGtk.
+[Python 2's end of life has been announced](https://pythonclock.org/), so it may not be a good idea to get started. Since I worked for somebody else on existing Python 2 Code, I had to dig into PyGtk.
 
 Checkout the [Demo Suite](https://github.com/Acry/PyGTK).
 
