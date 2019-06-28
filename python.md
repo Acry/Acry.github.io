@@ -12,7 +12,7 @@ order: 3
 
 [Action Tags](action_tags.html) is done in Python 3 and GTK.
 
-I finished most of the Demos, now I am in progress of cleaning and pushing.
+I finished most of the Demos, now I am in the progress of cleaning and pushing.
 
 ### PyGObject Demos
 
