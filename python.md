@@ -17,7 +17,6 @@ I finished most of the Demos, now I am in the progress of cleaning and pushing.
 ## Python
 
 In June 2019 Python has reached again an all time high in TIOBE index of 8.5% popularity growth.
-
 <https://www.tiobe.com/tiobe-index/>
 
 
