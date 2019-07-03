@@ -16,7 +16,7 @@ I finished most of the Demos, now I am in the progress of cleaning and pushing. 
 
 ### Drawing on a GTK Textview in PyGTK and PyGO
 <video controls>
-    <source src="assets/vids/Draw on textview.mp4.mp4" type="video/mp4">
+    <source src="assets/vids/Draw on textview.mp4" type="video/mp4">
     I'm sorry; your browser doesn't support HTML5 video in MP4 with H.264.
 </video>
 
