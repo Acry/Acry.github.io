@@ -14,6 +14,12 @@ order: 3
 
 I finished most of the Demos, now I am in the progress of cleaning and pushing. During that progress, I will focus on the more unusual use-cases. There are plenty sites offering basic tutorials. I am aiming at closing the gap between Python and C Code and offering advanced stuff.
 
+### Drawing on a GTK Textview in PyGTK and PyGO
+<video controls>
+    <source src="assets/vids/Draw on textview.mp4.mp4" type="video/mp4">
+    I'm sorry; your browser doesn't support HTML5 video in MP4 with H.264.
+</video>
+
 ## Python
 
 In June 2019 Python has reached again an all time high in TIOBE index of 8.5% popularity growth.
