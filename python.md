@@ -15,7 +15,7 @@ order: 3
 I finished most of the Demos, now I am in the progress of cleaning and pushing. During that progress, I will focus on the more unusual use-cases. There are plenty sites offering basic tutorials. I am aiming at closing the gap between Python and C Code and offering advanced stuff.
 
 ### Drawing on a GTK Textview in PyGTK and PyGO
-<video controls>
+<video controls width="640" height="360">
     <source src="assets/vids/Draw on textview.mp4" type="video/mp4">
     I'm sorry; your browser doesn't support HTML5 video in MP4 with H.264.
 </video>
