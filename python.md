@@ -39,7 +39,7 @@ Checkout the [Demo Suite](https://github.com/Acry/PyGObject-GTK).
 Checkout the [Demo Suite](https://github.com/Acry/PyGTK).
 
 Note:<br>
-Most of the older Demos are [here](https://github.com/Acry/CT-Z-Sandbox/tree/master/PyGtk). But it is a mess! Lists don't scale. I don't want to read phonebooks, like the most API-Crawlers offer; even empored by a search-function, most API-Helper are either Lists, Trees or simply cross-references. Those have been kind of helpful in the past and since the files are often stored in xml/json/html the good old grep fails. I really think it is about time to develop a real developer help. IDE's showed some progress in the past, especially for OO-Languages
+Most of the older Demos are [here](https://github.com/Acry/CT-Z-Sandbox/tree/master/PyGtk). But it is a mess! Lists don't scale. I don't want to read phonebooks, like the most API-Crawlers offer; even empowered by a search-function, most API-Helper are either Lists, Trees or simply cross-references. Those have been kind of helpful in the past and since the files are often stored in xml/json/html the good old grep fails. I really think it is about time to develop a real developer help. IDE's showed some progress in the past, especially for OO-Languages
 
 ### What I think about Python
 <br>
