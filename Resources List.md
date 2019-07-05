@@ -22,7 +22,7 @@ order: 4
 
 ### Game Development
 [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)<br>
-[Game Engines Collection](https://github.com/collections/game-engines)<br>
+[Github Game Engines Collection](https://github.com/collections/game-engines)<br>
 [Newcastle University](https://research.ncl.ac.uk/game/mastersdegree/)
 
 ### Computer Graphics
