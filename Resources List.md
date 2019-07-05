@@ -10,6 +10,11 @@ order: 4
 [My C-Snippets](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875)
 
 ### Data Structures and Programming Techniques
+
+[Dr. Dobb's Developer Library DVD-ROM 5](https://archive.org/download/DrDobbsDVD5)
+
+[Dr. Dobb's Essential Books on Algorithms and Datastructures](http://orion.lcg.ufrj.br/Dr.Dobbs/start.htm)
+
 [CPSC 223, Spring 2018, James Aspnes](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
 
 ### Software optimization
