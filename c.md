@@ -7,13 +7,13 @@ order: 2
 
 My efforts to make coding with pure C and SDL2 more clear and fun.
 
-A Collection of SDL2 C Tutorials and Demos, SDL2 with OpenGL / ~~Vulkan~~ and other APIs. Procedural ~~Sounds~~ and Graphics, plus GLSL Shaders for Game-Programming and general purpose. All done in pure C.
+A Collection of SDL2 C Tutorials and Demos, SDL2 with OpenGL / ~~Vulkan~~ and other APIs. Procedural ~~Sounds and~~ Graphics, plus GLSL Shaders for Game-Programming and general purpose. All done in pure C.
 
 ___
 
 <p align="center">
 Why C?<br>
-Cause C is seeing!  =)
+Because C is seeing!  =)
 </p>
 
 
@@ -47,7 +47,7 @@ And if you wish to use **SDL2 with CMake**: [Trenki's Dev Blog](https://trenki2.
 
 
 ### Entry Level
-[SDL2-Surfaces Repo](https://github.com/Acry/SDL2-Surfaces)<br>
+[SDL2-Surfaces Repo](https://github.com/Acry/SDL2-Surfaces)
 <video src="assets/vids/surfaces.mp4" poster="assets/ss/surfaces.jpg" width="320" height="200" controls preload></video>
 This is a set of small introductory programs.
 It's about the window, the window icon, a custom cursor, surfaces,
@@ -77,11 +77,11 @@ Create Spritesheet from gif and render it timed.
 [SDL2-GUI-Button Repo](https://github.com/Acry/SDL2-GUI-Button)<br>
 Responsive Button.
 
-[SDL2-Mousegrab Repo](https://github.com/Acry/SDL2-Mousegrab)<br>
+[SDL2-Mousegrab Repo](https://github.com/Acry/SDL2-Mousegrab)
 <video src="assets/vids/mouse_grab.mp4" poster="assets/ss/mouse_grab.jpg" width="320" height="200" controls preload></video>
 Let rect follow the mouse.
 
-[SDL2-Slider Repo](https://github.com/Acry/SDL2-Slider)<br>
+[SDL2-Slider Repo](https://github.com/Acry/SDL2-Slider)
 <video src="assets/vids/slider.mp4" poster="assets/ss/slider.jpg" width="320" height="200" controls preload></video>
 It is a follow up from Mousegrab. Shows how to make a Slider.
 
