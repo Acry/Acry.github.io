@@ -9,7 +9,6 @@ order: 4
 ## Computer Science
 
 [Check Brian Will's Youtube channel, he covers a lot](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw)
-
 Thank you Brian!
 
 ### My own Infos
@@ -51,7 +50,7 @@ Thank you Brian!
 
 [3Blue1Brown - Essence of calculus playlist](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-## Linear Algebra
+### Linear Algebra
 
 [3Blue1Brown - Essence of linear algebra playlist](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
