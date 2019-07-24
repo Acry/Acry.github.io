@@ -8,6 +8,10 @@ order: 4
 
 ## Computer Science
 
+[Check Brian Will's Youtube channel, he covers a lot](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw)
+
+Thank you Brian!
+
 ### My own Infos
 [My C-Snippets](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875)
 
