@@ -6,6 +6,8 @@ icon: fa-list
 order: 4
 ---
 
+## Computer Science
+
 ### My own Infos
 [My C-Snippets](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875)
 
@@ -34,3 +36,23 @@ order: 4
 
 ### Computer Audio
 [DrPetter's homepage](http://www.drpetter.se/article_sound.html)
+
+## Math
+
+### The map of mathematics
+
+[Domain of Science](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&t=32s)
+
+### Calculus
+
+[3Blue1Brown - Essence of calculus playlist](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+## Linear Algebra
+
+[3Blue1Brown - Essence of linear algebra playlist](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+## Physics
+
+### The map of physics
+
+[Domain of Science](https://www.youtube.com/watch?v=ZihywtixUYo&t=2s)
