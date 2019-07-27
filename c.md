@@ -116,7 +116,7 @@ This is a series about the SDL-Extension SDL_ttf 2.0
 
 In the [surfaces-series](https://github.com/Acry/SDL2-Surfaces) I did some naive linear animations and scaling. This is a demo series about non linear animations. To get more control I am gonna use floats here, now I need some non linear functions. Math provides tons of those functions. In computer graphics shaping functions are well known and used to create procedural graphics, too. But, one can use those functions also to shape the time-steps, positions or colors.
 
-<a href="assets/images/impulse_n.png"><img src="assets/images/impulse_n.png" style="width:640px; height:360px" title="Impulse Diagram" alt="Impulse"></a>
+<a href="assets/ss/impulse_n.png"><img src="assets/ss/impulse_n.png" style="width:640px; height:360px" title="Impulse Diagram" alt="Impulse"></a>
 
 <video src="assets/vids/nl_anim.mp4" width="552" height="346" controls preload></video>
 
