@@ -4,7 +4,7 @@ subtitle: A prototype implementation
 layout: "page"
 other_section:
 icon: fa-code
-order: 7
+order: 6
 ---
 <a href="assets/images/Flappy_Teaser.jpg"><img src="assets/images/Flappy_Teaser.jpg" style="width:640px; height:360px" title="Flappy Bird Clone Teaser" alt="Flappy Bird Clone"></a>
 

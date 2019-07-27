@@ -29,7 +29,7 @@ Oh, you can use the code as you wish, but don't blame me!<br>
 I am trying to cover the [SDL2-API](https://wiki.libsdl.org/APIByCategory) as needed, OpenGL, Vulkan and a couple of other common API's like curl or jannson, tho this is pure C and mainly Linux orientated, doesn't mean I don't cross-compile for Windows or Android. If you need a german translation I could make that happen. SDL-Audio Series and Joystick/Gamecontroller Series are nearly finished, just polishing it. At the same time I am building up my [C-Snippets](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875), but I am pretty behind on that. [SDL_net 2.0](https://www.libsdl.org/projects/SDL_net/) isn't covered yet.
 
 
-#### Procedurale Sound Annotation
+#### Procedural Sound Annotation
 
 I spent quite some time on that topic and decided that it's not worth going further.
 The Hardware isn't there yet. The focus of the past few decades was to improve GPU's.
@@ -111,6 +111,16 @@ Roll your own titlebar.
 [SDL2-TTF Repo](https://github.com/Acry/SDL2-TTF)<br>
 <video src="assets/vids/ttf.mp4" poster="assets/ss/ttf.jpg" width="468" height="197" controls preload></video>
 This is a series about the SDL-Extension SDL_ttf 2.0
+
+#### Non-Linear Animations
+
+In the [surfaces-series](https://github.com/Acry/SDL2-Surfaces) I did some naive linear animations and scaling. This is a demo series about non linear animations. To get more control I am gonna use floats here, now I need some non linear functions. Math provides tons of those functions. In computer graphics shaping functions are well known and used to create procedural graphics, too. But, one can use those functions also to shape the time-steps, positions or colors.
+
+<a href="assets/images/impulse_n.png"><img src="assets/images/impulse_n.png" style="width:640px; height:360px" title="Impulse Diagram" alt="Impulse"></a>
+
+<video src="assets/vids/nl_anim.mp4" width="552" height="346" controls preload></video>
+
+Python 3 mathplotlib sources included.
 
 #### Procedural/algorithmic Textures
 [SDL2-Textures Repo](https://github.com/Acry/SDL2-Textures)<br>

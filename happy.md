@@ -4,7 +4,7 @@ subtitle: A polished version of the Flappy Bird Clone
 layout: "page"
 other_section:
 icon: fa-code
-order: 4
+order: 7
 ---
 <a href="assets/images/Happy Fly Teaser.jpg"><img src="assets/images/Happy Fly Teaser.jpg" style="width:640px; height:360px" title="Happy Fly Teaser" alt="Happy Fly"></a>
 
