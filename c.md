@@ -119,10 +119,7 @@ In the [surfaces-series](https://github.com/Acry/SDL2-Surfaces) I did some naive
 <a href="assets/ss/impulse_n.png"><img src="assets/ss/impulse_n.png" style="width:640px; height:360px" title="Impulse Diagram" alt="Impulse"></a>
 
 <video src="assets/vids/nl_anim.mp4" width="552" height="346" controls preload></video>
-
-Python 3 mathplotlib sources included.
-
-[Repo](https://github.com/Acry/Non-Linear-Animations)<br>
+[Repository](https://github.com/Acry/Non-Linear-Animations) with Python 3 mathplotlib sources included.<br>
 
 #### Procedural/algorithmic Textures
 [SDL2-Textures Repo](https://github.com/Acry/SDL2-Textures)<br>
