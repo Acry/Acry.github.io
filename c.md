@@ -122,6 +122,8 @@ In the [surfaces-series](https://github.com/Acry/SDL2-Surfaces) I did some naive
 
 Python 3 mathplotlib sources included.
 
+[Repo](https://github.com/Acry/Non-Linear-Animations)<br>
+
 #### Procedural/algorithmic Textures
 [SDL2-Textures Repo](https://github.com/Acry/SDL2-Textures)<br>
 
