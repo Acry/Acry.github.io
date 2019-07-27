@@ -112,7 +112,7 @@ Roll your own titlebar.
 <video src="assets/vids/ttf.mp4" poster="assets/ss/ttf.jpg" width="468" height="197" controls preload></video>
 This is a series about the SDL-Extension SDL_ttf 2.0
 
-#### Non-Linear Animations
+<h4 id="SDL2-nl_anim">Non-Linear Animations</h4>
 
 In the [surfaces-series](https://github.com/Acry/SDL2-Surfaces) I did some naive linear animations and scaling. This is a demo series about non linear animations. To get more control I am gonna use floats here, now I need some non linear functions. Math provides tons of those functions. In computer graphics shaping functions are well known and used to create procedural graphics, too. But, one can use those functions also to shape the time-steps, positions or colors.
 
