@@ -20,7 +20,7 @@ If anyone is looking for my [SDL2-C Demos & Tutorials](/c.html), there you go.
 
 ___
 
-Next steps are pushing some repos upstream, filling the GTK-Python page with code I have done and some other stuff; since I was pretty focused on finding a proper solution for my Notekeeping Software, but that's --another story~~ an Odyssey, I was slacking with updates to my site.
+Next steps are pushing some repos upstream, filling the GTK-Python page with code I have done and some other stuff; since I was pretty focused on finding a proper solution for my Notekeeping Software, but that's ~~another story~~ an Odyssey, I was slacking with updates to my site.
 
  Meanwhile I hacked [my own Outliner](/action_tags.html) in Python cause I am tired to wrestle with XML/SQlite and other stuff one doesn't need for taking nodes.
 
