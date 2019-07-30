@@ -8,11 +8,13 @@ order: 8
 
 ## Computer Science
 
-[Check Brian Will's Youtube channel, he covers a lot](https://www.youtube.com/channel/UCseUQK4kC3x2x543nHtGpzw)
-Thank you Brian!
+### Introductory
 
-### My own Infos
-[My C-Snippets](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875)
+[Domain of Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+
+[Brian Will's Content](https://brianwill.github.io/)
+
+Thank you Brian!
 
 ### Data Structures and Programming Techniques
 
@@ -39,6 +41,9 @@ Thank you Brian!
 
 ### Computer Audio
 [DrPetter's homepage](http://www.drpetter.se/article_sound.html)
+
+### C-Specific
+[My C-Snippets](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875)
 
 ## Math
 
