@@ -8,7 +8,7 @@ layout: post
 
 The Sourceview is an alternative Textview - it is specialised to view and edit source-code. One _really_ should have used [Gtk.Textview](https://github.com/Acry/PyGObject-GTK/blob/master/Gtk/Text/Notes.md) before using GtkSource.View in code.
 
-The main problem is that Sourceview's [GObject Introspection](https://gi.readthedocs.io/en/latest/#gobject-introspection) is not working fully, yet.
+The main problem is that Sourceview's [GObject Introspection](https://gi.readthedocs.io/en/latest/#gobject-introspection) is not fully working , yet.
 
 Sometimes a bit of hacking and fiddling is needed to reach a goal. For now, after wrestling a bit with the bindings and jumping through some loops, I am quite satisfied with my code.
 
