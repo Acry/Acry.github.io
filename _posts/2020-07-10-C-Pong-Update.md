@@ -15,5 +15,5 @@ layout: post
 
 Due to my new job, I was pretty busy. Hopefully I can clean up my repo's, push some fixes, the cleaned Flappy Bird clone and some tutorials on _State Integration_.
 
-Cheers,
+Cheers,<br>
 Acry
