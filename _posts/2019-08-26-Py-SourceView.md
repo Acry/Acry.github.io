@@ -12,12 +12,10 @@ The main problem is that Sourceview's [GObject Introspection](https://gi.readthe
 
 Sometimes a bit of hacking and fiddling is needed to reach a goal. For now, after wrestling a bit with the bindings and jumping through some loops, I am quite satisfied with my code.
 
-
 <video src="/assets/vids/sourceview.mp4" width="806" height="498" controls preload></video>
 
 [Check the README's and the code.](https://github.com/Acry/PyGObject-GTK/tree/master/GtkSource/4)
 
-
 ## Background
 
-I have been using [Pygments](http://pygments.org/) as highlighter, which is working quite well under GTK. Currently working on a Snippet-Manager, cause I am tired that every IDE provides its own. And as usual import and exports across IDE-Snippets is a pain.
+I have been using [Pygments](http://pygments.org/) as highlighter, which is working quite well under GTK. Currently working on a Snippet-Manager, cause I am tired that every IDE provides its own. And as usual imports and exports across IDE-Snippets is a pain.
