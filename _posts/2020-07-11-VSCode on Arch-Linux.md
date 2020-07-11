@@ -1,3 +1,9 @@
+---
+title: VSCode on Arch-Linux
+author: Acry
+layout: post
+---
+
 # Installing VSCode on Arch-Linux
 
 ## Technical Side
