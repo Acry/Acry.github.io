@@ -13,7 +13,7 @@ order: 6
 <video src="assets/vids/Flappy Promo.mp4" poster="assets/ss/Flappy Promo.jpg" width="288" height="490" controls preload></video>
 
 ### Features
-Original Assets - Scaleable - Pausable, 2 Backgrounds - 3 Bird Colors - Bitmap Fonts - Tiny and Fast Executable - Detailed Step by Step Dev-Guide (Upload in Progress).
+Original Assets - Scaleable - Pausable, 2 Backgrounds - 3 Bird Colors - Bitmap Fonts - Tiny and Fast Executable - Detailed Step by Step Dev-Guide [Check the Repo](https://github.com/Acry/flappy).
 
 ### Notes
 This is quickly implemented proof of concept Code done in 2017. It should run on Android / Windows & Linux - should be easily portable to Mac/iOS. See more Details and Downloads in the Repository. **Repo Push In Progress**
