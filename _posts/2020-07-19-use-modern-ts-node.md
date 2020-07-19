@@ -55,4 +55,4 @@ sed -i 's/"target": "ES3"/"target": "ES2020"/' tsconfig.json
 ![](/assets/images/array-flat-success.png)
 
 \*With properly I mean good enough to use [`Array.prototype.flat()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/flat).<br>
-To set up TypeScript for your use-case see: https://www.typescriptlang.org/docs/handbook/compiler-options.html
+To set up TypeScript for your use-case see: <https://www.typescriptlang.org/docs/handbook/compiler-options.html
