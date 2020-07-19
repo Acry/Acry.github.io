@@ -9,4 +9,4 @@ I read an excellent article about the practical use of algorithms and data struc
 [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
 by Gergely Orosz
 
-I will add it to the [Resource-List](/Resources%20List.html)
+I will add it to the [Resource-List](/resources_list.html)
