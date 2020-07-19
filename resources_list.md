@@ -52,6 +52,10 @@ Thank you Brian!
 
 [My C-Snippets](https://gist.github.com/Acry/554e04bab3a2669a5ba2ecd4d673e875)
 
+### TypeScript
+
+[TypeScript Setup](https://gist.github.com/Acry/3569feefe7548d85f0fceb36714ba5f5)
+
 ## Math
 
 ### The map of mathematics
