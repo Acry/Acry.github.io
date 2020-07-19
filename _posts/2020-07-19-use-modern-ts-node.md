@@ -5,7 +5,6 @@ layout: post
 ---
 
 **The Problem:** One wants to use ES2020 or ESNEXT features with the global installed ts-node. TS-Node defaults to **ES3**.
-
 ![](/assets/images/array-flat-failing.png)
 
 ## Current versions as time of writing
