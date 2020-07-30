@@ -3,7 +3,7 @@ title: Resources List
 subtitle: Notable Development Resources
 layout: 'page'
 icon: fa-list
-order: 8
+order: 10
 ---
 
 ## Computer Science

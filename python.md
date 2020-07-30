@@ -1,9 +1,9 @@
 ---
 title: Python Code
 subtitle: Things I have done with Python
-layout: "page"
+layout: 'page'
 icon: fa-code
-order: 3
+order: 9
 ---
 
 <header>
@@ -15,6 +15,7 @@ order: 3
 I finished most of the Demos, now I am in the progress of cleaning and pushing. During that progress, I will focus on the more unusual use-cases. There are plenty sites offering basic tutorials. I am aiming at closing the gap between Python and C Code and offering advanced stuff.
 
 ### Drawing on a GTK Textview in PyGTK and PyGO
+
 <video controls width="640" height="360">
     <source src="assets/vids/Draw on textview.mp4" type="video/mp4">
     I'm sorry; your browser doesn't support HTML5 video in MP4 with H.264.
@@ -24,7 +25,6 @@ I finished most of the Demos, now I am in the progress of cleaning and pushing. 
 
 In June 2019 Python has reached again an all time high in TIOBE index of 8.5% popularity growth.
 <https://www.tiobe.com/tiobe-index/>
-
 
 ### PyGObject Demos
 
@@ -42,6 +42,7 @@ Note:<br>
 Most of the older Demos are [here](https://github.com/Acry/CT-Z-Sandbox/tree/master/PyGtk). But it is a mess! Lists don't scale. I don't want to read phonebooks, like the most API-Crawlers offer; even empowered by a search-function, most API-Helper are either Lists, Trees or simply cross-references. Those have been kind of helpful in the past and since the files are often stored in xml/json/html the good old grep fails. I really think it is about time to develop a real developer help. IDE's showed some progress in the past, especially for OO-Languages
 
 ### What I think about Python
+
 <br>
 and is `True` for Ruby and some other languages as well.<br>
 <br>

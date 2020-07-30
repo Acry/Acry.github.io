@@ -1,3 +1,10 @@
+---
+title: C-Code
+layout: page
+icon: fa-code
+order: 4
+---
+
 [SDL2-C Tutorials are here](/SDL2-C.html)
 
 - [Byte Drawer](https://github.com/Acry/Byte_Drawer)
