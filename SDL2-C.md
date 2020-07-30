@@ -7,7 +7,7 @@ order: 2
 
 My efforts to make coding with pure C and SDL2 more clear and fun.
 
-A Collection of SDL2 C Tutorials and Demos, SDL2 with OpenGL / Vulkan () coming soon and other APIs. Procedural ~~Sounds and~~ Graphics, plus GLSL Shaders for Game-Programming and general purpose. All done in pure C.
+A Collection of SDL2 C Tutorials and Demos, SDL2 with OpenGL / Vulkan (coming soon) and other APIs. Procedural ~~Sounds and~~ Graphics, plus GLSL Shaders for Game-Programming and general purpose. All done in pure C.
 
 ---
 
