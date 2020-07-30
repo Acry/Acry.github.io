@@ -15,23 +15,18 @@
 #
 # ---------------------------------------------------------------
 
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:
-  Acry's Coding Site
-
+title: Acry's Coding Site
 
 #title: Acry's Coding Site
-subtitle:
-  Talk is cheap... show me the Code!
+subtitle: Talk is cheap... show me the Code!
 
-description:
-  SDL2, Python3, C, GTK3 Tutorials. My Portfolio.
+description: SDL2 C Tutorials, SDL C, OpenGL C Tutorials, Python3, C, GTK3 Tutorials. My Portfolio.
 
 author: Carsten Holtkamp
 email: Carsten-Holtkamp@T-Online.de
@@ -39,7 +34,7 @@ avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
 #baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
-url: "http://acry.github.io" # the base hostname & protocol for your site
+url: 'http://acry.github.io' # the base hostname & protocol for your site
 
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
@@ -47,8 +42,8 @@ twitter_url:
 facebook_url:
 googleplus_url:
 instagram_url:
-linkedin_url: "https://www.linkedin.com/in/carsten-holtkamp-5b4405a5/"
-github_url: "https://github.com/Acry"
+linkedin_url: 'https://www.linkedin.com/in/carsten-holtkamp-5b4405a5/'
+github_url: 'https://github.com/Acry'
 pinterest_url:
 slack_url:
 dribbble_url:
