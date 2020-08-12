@@ -199,19 +199,19 @@ by Jonathan Dearborn
 
 #### SDL and OpenGL
 
-[SDL2-OpenGL Repo](https://github.com/Acry/SDL2-OpenGL)
-
+[SDL2-OpenGL Repo](https://github.com/Acry/SDL2-OpenGL)<br>
 This is a starter series about GLSL Shaders using SDL2 as OpenGL Helper and a bit Shader-Language for C-Coders.
 
-[NanoVG-SDL2 starter Repo](https://github.com/Acry/SDL2-nanovg-example)
+Boilerplate C code to get OpenGL with an 4.6 context rendered. [Repository](https://github.com/Acry/OpenGL-4.6-Context-with-SDL2-and-GLAD)
 
+[NanoVG-SDL2 starter Repo](https://github.com/Acry/SDL2-nanovg-example)
 Startup Code to use SDL2/OpenGL/NanoVG
 
-[Shade it! Repo](https://github.com/Acry/Shade-it-)
+[Shade it! WIP Repo](https://github.com/Acry/Shade-it-)
 
 <video src="assets/vids/Shade_it.mp4" poster="assets/ss/ldf3DN.jpg" width="398" height="232" controls preload></video>
 
-Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders. Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile. ~~WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement visualization of GLSL shaders with low latency.~~
+Using SDL2 to show [Shadertoy](https://www.shadertoy.com/) GLSL Fragment Shaders. Features "drag and drop", Auto-Screenshot with shadername, editing with Auto-Compile. WIP: Finishing SDL2-Audio right now, to move on to FFT and finally implement visualization of GLSL shaders with low latency.
 
 #### Misc Demos
 
