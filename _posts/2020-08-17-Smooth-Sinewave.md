@@ -6,7 +6,7 @@ layout: post
 
 I added a few screenshots, cleaned up and added a smooth sine wave.
 
-<a href="/assets/images/sine_wave.png"><img src="/assets/images/sine_wave.png" style="width:532px; height:567px" title="Smooth sine wave" alt="shader style"></a>
+<a href="/assets/ss/sine_wave.png"><img src="/assets/ss/sine_wave.png" style="width:532px; height:567px" title="Smooth sine wave" alt="shader style"></a>
 
 [Repository](https://github.com/Acry/SDL2-Renderer)
 
