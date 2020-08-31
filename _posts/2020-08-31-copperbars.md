@@ -6,7 +6,7 @@ layout: post
 
 Added copperbars effect to the surfaces repo.
 
-![](/assets/ss/candybar.gif)
+![](/assets/ss/copperbars.gif)
 
 [Repository](https://github.com/Acry/SDL2-Surfaces)
 
