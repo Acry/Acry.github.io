@@ -68,6 +68,8 @@ Program quits after a certain amount of time.
 
 #### Put it together
 
+[Screen Transitions](https://github.com/Acry/SDL-Transitions)<br>
+
 [SDL2-SpriteAnim Repo](https://github.com/Acry/SDL2-Anim01)<br>
 
 <video src="assets/vids/sprite_animation.mp4" poster="assets/ss/sprite_animation.jpg" width="320" height="200" controls preload></video>
